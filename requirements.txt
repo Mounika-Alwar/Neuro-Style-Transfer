@@ -4,3 +4,4 @@ tensorflow_hub
 matplotlib
 numpy
 opencv-python
+cv2
