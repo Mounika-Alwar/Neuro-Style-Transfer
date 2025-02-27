@@ -1,7 +1,0 @@
-streamlit
-tensorflow
-tensorflow_hub
-matplotlib
-numpy
-opencv-python
-
