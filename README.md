@@ -36,3 +36,4 @@ This repository contains a simple implementation of image stylization using Tens
 - Run the stylization model using the model() function.
 - Display the stylized image using Matplotlib.
 
+## Updated again..
